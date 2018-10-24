@@ -8,6 +8,7 @@
 #include "Sensor.h"
 #include "SensorNetwork.h"
 #include "Query.h"
+holaaaa
 
 using namespace std;
 
